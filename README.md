@@ -15,6 +15,8 @@ The bottleneck in complex texture mapping stems from limited creative variation 
 
 - The image demonstrates a process where Monet paintings and photographs are transformed into stylized fragments by a pre-trained model, these are then reimagined through CycleGAN to transfer styles and reshape objects, and finally, the textures are mapped onto 3D models.
 
-![image](img/Fig_7.png)/center
+<p align="center">
+  <img src="img/Fig_7.png" alt="Figure 7">
+</p>
 
 - Samurai Monastery is mapped with detailed and stylish fragments, strategically arranged to highlight architectural features and visual complexity.
