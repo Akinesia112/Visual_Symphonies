@@ -1,0 +1,17 @@
+# Created by Open3D 
+# object name: cloth_z_up_textured
+newmtl cloth_z_up_textured_0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd cloth_z_up_textured_0.png
+newmtl cloth_z_up_textured_1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd cloth_z_up_textured_1.png
+newmtl cloth_z_up_textured_2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd cloth_z_up_textured_2.png

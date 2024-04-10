@@ -1,0 +1,17 @@
+# Created by Open3D 
+# object name: banana_textured
+newmtl banana_textured_0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd banana_textured_0.png
+newmtl banana_textured_1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd banana_textured_1.png
+newmtl banana_textured_2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd banana_textured_2.png

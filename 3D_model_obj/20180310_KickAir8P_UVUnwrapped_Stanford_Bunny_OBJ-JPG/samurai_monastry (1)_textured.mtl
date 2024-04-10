@@ -1,0 +1,17 @@
+# Created by Open3D 
+# object name: samurai_monastry (1)_textured
+newmtl samurai_monastry (1)_textured_0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd samurai_monastry (1)_textured_0.png
+newmtl samurai_monastry (1)_textured_1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd samurai_monastry (1)_textured_1.png
+newmtl samurai_monastry (1)_textured_2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd samurai_monastry (1)_textured_2.png

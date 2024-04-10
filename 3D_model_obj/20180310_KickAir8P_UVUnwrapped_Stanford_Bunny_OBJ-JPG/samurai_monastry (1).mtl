@@ -1,0 +1,50 @@
+# Rhino
+newmtl MainEntrance:MainTemple:blinn3SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:lambert2SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:blinn7SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:blinn6SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:blinn5SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:blinn3SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+newmtl MainEntrance:MainEntrance:blinn2SG
+Ka 0.0000 0.0000 0.0000
+Kd 0.6392 0.6392 0.6392
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
