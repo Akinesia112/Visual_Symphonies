@@ -1,6 +1,8 @@
 # Visual_Symphonies
 ### Visual Symphonies: Exploring the Creative Fragments and Textures of Collages on 3D Model Surfaces through Clustering, Image Sorting, and CycleGAN Generation
 
+#### Shih-Yu, Lai
+
 The bottleneck in complex texture mapping stems from limited creative variation while ensuring visual style consistency, resulting in a monotony of visuals and modeling. We present Visual Symphonies, which employs numerous collage creative fragments in two styles for style transfer on texture fragments, enhancing stylistic diversity. Leveraging feature-similar fragments with Inception V3 for feature extraction, K-Means clusters images effectively. Sorting by intra-cluster feature similarity ensures the stylistic uniformity of fragments within the nearby parts of the texture. Enhancing photos with clustering, CycleGAN optimizes fragment generation for style transfer and object transformation, introducing variations in form, geometry, color, and gradation. Finally, applying this tool to read collage textures of 3D models and map them for visualization supports computer-aided design and graphics, including flat printing, 3D textures, craft pattern design, and enriching organic spaces in the architecture with painted tiles and mosaics.
 
 ![image](img/Fig_1.png)
